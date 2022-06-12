@@ -1,3 +1,5 @@
+'postprocessing steps borrowed and modified from github.com/hustvl/YOLOS'
+
 import os
 import time
 import tkinter
