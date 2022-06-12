@@ -6,3 +6,7 @@ yolov5 object detection demo
 pip3 install -r requirements.txt
 
 pip3 install -e .
+
+## run
+
+python3 live/livecam.py
